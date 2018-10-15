@@ -29,7 +29,7 @@
 	},
 	{
 		"title":"CodeConvert",
-		"image":"/Assets/CodeConvertPreview.png",
+		"image":"Assets/CodeConvertPreview.png",
 		"flavor":"a decimal, hexadecimal, and binary converting tool",
 		"description":"This is a very basic, but fun Javascript WebApp that I created using Material Lite Components. <br><br>I originally made it for myself when a Computer Science course required me to always be converting between the three number formats. <br><br> I hope you can make as much use for it as I did!",
 		"color":"#4158a9",
