@@ -1,0 +1,113 @@
+* {
+	font-family: roboto, sans-serif;
+	transition-timing-function: cubic-bezier(0.4, 0.0, 0.2, 1);
+	box-sizing: border-box;
+}
+
+html {
+	padding: 10px;
+	margin: 0;
+	background-color: #263238;
+	z-index: 0;
+}
+
+.projectCard {
+	display: block;
+	background-color: white;
+	border-radius: 3px;
+	margin: 20px auto 40px;
+	padding: 20px;
+	width: 100%;
+	transition: width 500ms;
+	max-width: 800px;
+	min-width: 650px;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+
+.projectTitle {
+	width: calc(100% + 40px);
+	background-color: red;
+	margin: -20px;
+	padding: 20px;
+	border-radius: 3px 3px 0 0;
+	color: #fff;
+	font-size: 40px;
+}
+
+.projectFlavor {
+	width: calc(100% + 40px);
+	background-color: red;
+	color: #fff;
+	margin: -20px -20px 20px;
+	padding: 0px 20px 20px;
+	font-weight: 200;
+}
+
+.projectDescription {
+	display: inline-block;
+	vertical-align: top;
+	width: calc(100% - 300px);
+	max-height: 300px;
+	min-width: 300px;
+	padding: 0 20px;
+	margin-top: 0px;
+	overflow: scroll;
+}
+
+.projectImage {
+	position: relative;
+	width: 300px;
+	max-height: 300px;
+	border-radius: 3px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+img {
+	margin: auto;
+	display: block;
+	width: 100%;
+	vertical-align: middle;
+	border-radius: 3px;
+}
+
+.projectLink, .projectLink:link, .projectLink:visited {
+	width: 160px;
+	height: 40px;
+	display: inline-block;
+	padding: 10px;
+	line-height: 20px;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+	margin-left: calc(((100% - 300px) - 180px)/2);
+	margin-right: calc(((100% - 300px) - 180px)/2);
+	margin-top: 10px;
+	margin-bottom: 10px;
+	vertical-align: top;
+	font-weight: 800;
+	border-radius: 3px;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.tagList {
+	display: inline-block;
+	width: 300px;
+	text-align: center;
+	margin-left: 20px;
+}
+
+.tag {
+	display: inline-block;
+	background-color: #ddd;
+	border-radius: 20px;
+	padding: 5px 10px;
+	font-size: 12px;
+	margin: 5px;
+}
+h1 {
+	color: #fff;
+	font-size: 100px;
+
+}
