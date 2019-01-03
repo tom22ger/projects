@@ -28,6 +28,18 @@
 		]	
 	},
 	{
+		"title":"amiGO Mockup",
+		"image":"Assets/amiGOPromo.png",
+		"flavor":"a small carpool app design concept",
+		"description":"This is just a little interactive prototype for a Carpool app that I started designing. It's very much a work in progress!",
+		"color":"#64C055",
+		"link":"https://www.figma.com/proto/XBbU5rbjhhcE8mVC3jdSCGLR/amiGO?node-id=1%3A3&viewport=-214%2C-367%2C0.874913&scaling=scale-down",
+		"tagList":[
+			"UI/UX",
+			"Figma/Sketch"
+		]	
+	},
+	{
 		"title":"CodeConvert",
 		"image":"Assets/CodeConvertPreview.png",
 		"flavor":"a decimal, hexadecimal, and binary converting tool",
