@@ -3,9 +3,9 @@
 		"title":"DojoVote",
 		"image":"Assets/DojoVoteLogo.svg",
 		"flavor":"a polling platform that allows you to generate and share polls all around the world",
-		"description":"DojoVote is a web application that makes polling fun. Create a Dojo of up to 100 items that can be shared over a simple link. Then make one-vs-one comparsions to find out the world's rankings of anything you can imagine!<br><br> This project was my most complicated and my personal favorite! It incorporates serverside scripting and databases to provide a shared interactive experience for anyone who wants to use it.  <br><br> Unfortunately, I do not currently have this project hosted online anymore, however I have created a viewable demo as well as included a few different screenshots of the project. I am looking for hosting solutions right now so stay tuned!",
+		"description":"DojoVote is a web application that makes polling fun. Create a Dojo of up to 100 items that can be shared over a simple link, then make one-vs-one comparsions to find out the world's rankings of anything you can imagine!<br><br> This project was my most complicated and my personal favorite! It incorporates serverside scripting and databases to provide a shared interactive experience for anyone who wants to use it.  <br><br> It's currently hosted on Microsoft Azure. Visit the site at <a href='www.dojo.vote'>www.dojo.vote</a> or click the link below. Make your own Dojos and share them with your friends!",
 		"color":"#ff4081",
-		"link":"https://photos.app.goo.gl/c86h5BCUauAivEBb9",
+		"link":"http://www.dojo.vote",
 		"tagList":[
 			"HTML/CSS",
 			"JavaScript",
