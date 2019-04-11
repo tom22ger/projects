@@ -5,7 +5,7 @@
 		"flavor":"a polling platform that allows you to generate and share polls all around the world",
 		"description":"DojoVote is a web application that makes polling fun. Create a Dojo of up to 100 items that can be shared over a simple link, then make one-vs-one comparsions to find out the world's rankings of anything you can imagine!<br><br> This project was my most complicated and my personal favorite! It incorporates serverside scripting and databases to provide a shared interactive experience for anyone who wants to use it.  <br><br> I currently have the site hosted through AWS and can be visited at www.dojo.vote so try it for yourself!",
 		"color":"#ff4081",
-		"link":"https://www.dojo.vote",
+		"link":"http://www.dojo.vote",
 		"tagList":[
 			"HTML/CSS",
 			"JavaScript",
